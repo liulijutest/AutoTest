@@ -12,4 +12,5 @@ git新增分支，并将内容合并
 
 mergedemo分支内容 与 master分支内容合并冲突，这是修改冲突后所需的内容
 version1
+version2
 
